@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea eaque dicta eos laboriosam temporibus, modi culpa nobis assumenda corrupti, distinctio ratione earum officia rem quasi adipisci quibusdam porro? Eveniet deserunt modi eius, debitis perspiciatis cupiditate amet reprehenderit magni voluptatum corrupti! Doloribus at beatae perferendis molestias itaque voluptatibus tempora accusamus asperiores fuga veritatis, repellendus dignissimos odit, facilis sapiente consectetur? Ad error nisi aperiam impedit in, deleniti dolorem nulla laudantium magnam, ducimus quas molesti.",
+      "author": "Pesho"
+    },
+    {
+      "id": 2,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea eaque dicta eos laboriosam temporibus, modi culpa nobis assumenda corrupti, distinctio ratione earum officia rem quasi adipisci quibusdam porro? Eveniet deserunt modi eius, debitis perspiciatis cupiditate amet reprehenderit magni voluptatum corrupti! Doloribus at beatae perferendis molestias itaque voluptatibus tempora accusamus asperiores fuga veritatis, repellendus dignissimos odit, facilis sapiente consectetur? Ad error nisi aperiam impedit in, deleniti dolorem nulla laudantium magnam, ducimus quas molesti.",
+      "author": "Gesho"
+    },
+    {
+      "id": 3,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea eaque dicta eos laboriosam temporibus, modi culpa nobis assumenda corrupti, distinctio ratione earum officia rem quasi adipisci quibusdam porro? Eveniet deserunt modi eius, debitis perspiciatis cupiditate amet reprehenderit magni voluptatum corrupti! Doloribus at beatae perferendis molestias itaque voluptatibus tempora accusamus asperiores fuga veritatis, repellendus dignissimos odit, facilis sapiente consectetur? Ad error nisi aperiam impedit in, deleniti dolorem nulla laudantium magnam, ducimus quas molesti.",
+      "author": "Mesho"
+    },
+    {
+      "id": 4,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea eaque dicta eos laboriosam temporibus, modi culpa nobis assumenda corrupti, distinctio ratione earum officia rem quasi adipisci quibusdam porro? Eveniet deserunt modi eius, debitis perspiciatis cupiditate amet reprehenderit magni voluptatum corrupti! Doloribus at beatae perferendis molestias itaque voluptatibus tempora accusamus asperiores fuga veritatis, repellendus dignissimos odit, facilis sapiente consectetur? Ad error nisi aperiam impedit in, deleniti dolorem nulla laudantium magnam, ducimus quas molesti.",
+      "author": "Shesho"
+    }
+  ]
+}
